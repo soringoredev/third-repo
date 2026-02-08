@@ -3,4 +3,4 @@ print('Hai, Noroc!')
 print('OPA Dvs stti sa lucrati cu git? ')
 print('Ma rog de ma iertati :D')
 print('abcd')
-
+print('Prea usor am scapat')
